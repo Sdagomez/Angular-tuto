@@ -1,8 +1,11 @@
 # Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
+El proyecto fue desarrollado en [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
 
-## Development server
+## Tutorial
+Adjunto un pequño video tutorial de como empezar en Angular   (https://www.youtube.com/watch?v=kqYuyACFVkE)
+
+## Servidor
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
