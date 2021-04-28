@@ -3,7 +3,8 @@
 El proyecto fue desarrollado en [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
 
 ## Tutorial
-Adjunto un pequño video tutorial de como empezar en Angular   (https://www.youtube.com/watch?v=kqYuyACFVkE)
+Adjunto un pequño video tutorial de como empezar en Angular   (https://www.youtube.com/watch?v=kqYuyACFVkE) 
+y algunos comandos importantes para empezar en angular
 
 ## Servidor
 
